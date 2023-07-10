@@ -18,3 +18,5 @@ Linguagens de Programação:
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![GITHUB] https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
